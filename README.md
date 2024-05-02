@@ -68,7 +68,7 @@ As it can be seen, the data consists of various important features in making the
 ![](conf_matrix.png)
 
 ## Featured Notebooks/Analysis
-* [Notebook](bank-loan-approval-using-AI.ipynb)
+* [Notebook](https://github.com/vandanasnh/FCC-Project/blob/main/bank-loan-approval-using-AI.ipynb)
 * [Dataset](UniversalBank.csv)
 
 
